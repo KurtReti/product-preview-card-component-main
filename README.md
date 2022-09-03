@@ -53,5 +53,6 @@ received on my implementation.
 
 ## Author
 
-- Website - [LinkedIn](https://www.linkedin.com/in/kurt-reti-aa469924a/)
-- Frontend Mentor - [@tobifunmi](https://www.frontendmentor.io/profile/KurtReti)
+- LinkedIn [Kurt Reti](https://www.linkedin.com/in/kurt-reti-aa469924a/)
+- GitHub [KurtReti](https://github.com/KurtReti)
+- Frontend Mentor [@KurtReti](https://www.frontendmentor.io/profile/KurtReti)

@@ -11,13 +11,10 @@ h5, h1, p, img{
 }
 
 body{
-    padding: 100px;
     background-color: #f2ebe3;
 }
 
-#attribution{
-    padding-top: 500px;
-}
+
 
 #card{
     width:570px;
@@ -101,3 +98,19 @@ button{
     border-radius: 6px;
 
 }
+
+
+/* Mobile Breakpoint */
+
+@media (max-width: 700px){
+    #left-section, #right-section{
+        width: 100%;
+    }
+
+    #card{
+        height: 80%;
+        width: 100%;
+    }
+
+}
+
